@@ -1,8 +1,8 @@
 import mysql.connector
-#import userdetails
 
 
-class Demo:
+
+class Sql:
 
     def __init__(self, database):
         self.database = database
